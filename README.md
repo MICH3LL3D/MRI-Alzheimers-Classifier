@@ -40,8 +40,8 @@ the confusion matrix with just weighting while the bottom is the updated with re
 <br/>
 ![Alt text](/mri%20classifier%20images/initial%20testing%20results.png)
 <br/>
-<br/>
 initial testing results
+<br/>
 <br/>
 ![Alt text](/mri%20classifier%20images/results%20after%20weight%20redistribution.png)
 <br/>
